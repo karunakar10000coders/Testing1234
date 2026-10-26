@@ -2,3 +2,4 @@ remote
 asdfghjgf
 sdfjsdfkjshdfkjhsdkfjhsdkjf
 jenni
+winget
